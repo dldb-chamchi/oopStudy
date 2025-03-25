@@ -7,4 +7,5 @@ public class Main {
         child.printAge();
         //child.printOldest 결정은 부모 메소드로 실제 실행은 자식 메소드로
     }
+
 }
