@@ -14,4 +14,5 @@ public class Main {
         gram.power();
         gram.shutDown();
     }
+
 }
