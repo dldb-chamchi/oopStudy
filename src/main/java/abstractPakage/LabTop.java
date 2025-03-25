@@ -6,4 +6,5 @@ public interface LabTop {
     void power();
 
     void shutDown();
+
 }
