@@ -1,6 +1,6 @@
 package abstractPakage;
 
-public class MackBook implements LabTop {
+public class MacBook implements LabTop {
 
     @Override
     public void information() {

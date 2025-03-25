@@ -2,10 +2,10 @@ package abstractPakage;
 
 public class Main {
     public static void main(String[] args) {
-        MackBook mackBook = new MackBook();
-        mackBook.information();
-        mackBook.power();
-        mackBook.shutDown();
+        MacBook macBook = new MacBook();
+        macBook.information();
+        macBook.power();
+        macBook.shutDown();
 
         System.out.println();
 
