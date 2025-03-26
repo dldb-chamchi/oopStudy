@@ -11,12 +11,13 @@ public class Child extends Parents {
 
     @Override
     public void printName(){
-        System.out.println(name);
+        super.printName();
+        //System.out.println(age); 부모의 age를 불러옴
     }
 
     @Override
     public void printAge(){
-        System.out.println(age);
+        super.printAge();
     }
 
     public void printOldest(){
