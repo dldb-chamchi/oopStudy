@@ -4,7 +4,7 @@ public class Gram implements LabTop {
 
     @Override
     public void information() {
-        System.out.println("Gram");
+        System.out.println("Gram on");
     }
 
     @Override
@@ -16,4 +16,5 @@ public class Gram implements LabTop {
     public void shutDown() {
         System.out.println("Gram Off");
     }
+    //test
 }
